@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Java swing basketball scoreboard
+- 🌱 I’m currently learning web development
+
 <!--
 **D0MMMM/D0MMMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
