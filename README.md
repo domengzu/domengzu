@@ -1,10 +1,10 @@
-## Hi there! 👋 I am Domenick Mahusay 🦥
+## Hey there! 👋
 
-- 🔭 I’m currently discovering everything.
-- 🌱 I am learning Web Development.
-- 🎯 Focusing on mastering the basics.
+I am Domenick Mahusay(he/his/him) a BSIT student, currently focusing on mastering the basics and fundamentals of programming.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- 🪶 I am currently exploring all of the things I haven't been done yet.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,mysql)](https://skillicons.dev)
 
 <!--
 **D0MMMM/D0MMMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
