@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there! 👋 I am Domenick Mahusay 🦥
 
-- 🔭 I’m currently working on Java swing basketball scoreboard
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently discovering everything.
+- 🌱 I am learning Web Development.
+- 🎯 Focusing on mastering the basics.
 
 <!--
 **D0MMMM/D0MMMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
