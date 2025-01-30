@@ -4,7 +4,7 @@ I am Domenick Mahusay(he/his/him) a BSIT student, currently focusing on masterin
 
 - 🪶 I am currently exploring all of the things I haven't been done yet.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,html,css,js)](https://skillicons.dev)
 
 <!--
 **D0MMMM/D0MMMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
