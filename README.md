@@ -1,5 +1,4 @@
 ## ![Abstract Flow](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
-![Tech Banner](https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif)
 <!--I am Domenick Mahusay(he/his/him) a BSIT student, currently focusing on mastering the basics and fundamentals of programming.-->
 <!--![Coding Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)-->
 <!--![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)-->
@@ -24,8 +23,16 @@ Currently diving into:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+##
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ### 📊 GitHub Stats
-![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=highcontrast) 
+
+![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domengzu&layout=compact&theme=dracula)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=domengzu&theme=dracula)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=domengzu&theme=dracula)
 
