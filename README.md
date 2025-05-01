@@ -1,5 +1,7 @@
 ## Hey there!
-![Gradient Banner](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
+![Abstract Flow](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
 <!--I am Domenick Mahusay(he/his/him) a BSIT student, currently focusing on mastering the basics and fundamentals of programming.-->
 <!--![Coding Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)-->
 <!--![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)-->
