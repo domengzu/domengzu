@@ -30,8 +30,6 @@ Currently diving into:
 
 ![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=highcontrast)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domengzu&layout=compact&theme=monokai)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=domengzu&theme=highcontrast)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domengzu&layout=compact&theme=highcontrast)
 
 
