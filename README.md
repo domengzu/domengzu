@@ -1,5 +1,5 @@
 ## Hey there!
-
+![Gradient Banner](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 <!--I am Domenick Mahusay(he/his/him) a BSIT student, currently focusing on mastering the basics and fundamentals of programming.-->
 <!--![Coding Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)-->
 <!--![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)-->
@@ -28,6 +28,4 @@ Currently diving into:
 
 ### 📊 GitHub Stats
 ![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=highcontrast) 
-
-https://camo.githubusercontent.com/4e1283dfac82639a0c8485760786b5f4dedb4964a46918c31272f5923cc28b33/68747470733a2f2f64756570792d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e617468616e69656c6b61746573696d6f6e267468656d653d7472616e73706172656e7426686964655f626f726465723d7472756526686964655f7469746c653d74727565
 
