@@ -28,11 +28,10 @@ Currently diving into:
 
 ### 📊 GitHub Stats
 
-![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=dracula)
+![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=highcontrast)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domengzu&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domengzu&layout=compact&theme=monokai)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=domengzu&theme=dracula)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=domengzu&theme=highcontrast)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=domengzu&theme=dracula)
 
