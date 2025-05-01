@@ -1,4 +1,4 @@
-![Welcome Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile!)
+## Hey there!
 
 <!--I am Domenick Mahusay(he/his/him) a BSIT student, currently focusing on mastering the basics and fundamentals of programming.-->
 <!--![Coding Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)-->
