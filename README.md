@@ -2,7 +2,8 @@
 
 I am Domenick Mahusay(he/his/him) a BSIT student, currently focusing on mastering the basics and fundamentals of programming.
 
-![Excited Developer](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<!--![Excited Developer](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)-->
 
 - 🪶 I am currently exploring all of the things I haven't been done yet.
   
