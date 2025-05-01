@@ -28,8 +28,6 @@ Currently diving into:
 
 ### 📊 GitHub Stats
 
-![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=highcontrast)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domengzu&layout=compact&theme=highcontrast)
+![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=highcontrast) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domengzu&layout=compact&theme=highcontrast)
 
 
