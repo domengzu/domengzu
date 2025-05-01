@@ -1,9 +1,9 @@
 ## Hey there! 👋
 
-I am Domenick Mahusay(he/his/him) a BSIT student, currently focusing on mastering the basics and fundamentals of programming.
-![Coding Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<!--I am Domenick Mahusay(he/his/him) a BSIT student, currently focusing on mastering the basics and fundamentals of programming.-->
+<!--![Coding Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)-->
 <!--![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)-->
-<!--![Excited Developer](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)-->
+<!--![Excited Developer](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 - 🪶 I am currently exploring all of the things I haven't been done yet.
   
@@ -11,7 +11,7 @@ I am Domenick Mahusay(he/his/him) a BSIT student, currently focusing on masterin
 Currently diving into:
 - 🧠 Web Development
 - 📱 Mobile App Development with Flutter
-
+-->
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
