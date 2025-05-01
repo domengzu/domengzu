@@ -4,6 +4,7 @@
 <!--![Coding Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)-->
 <!--![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)-->
 ![Excited Developer](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Excited Developer GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 <!--
 - 🪶 I am currently exploring all of the things I haven't been done yet.
   
