@@ -24,12 +24,5 @@ Currently diving into:
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ### 📊 GitHub Stats
-![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=radical)
-
-### 🚀 Activity Overview
-- ✅ **Commits** ![Commits](https://img.shields.io/badge/commits-1k-brightgreen?style=flat-square)
-- 📦 **Pushes** ![Pushes](https://img.shields.io/badge/pushes-500+-brightgreen?style=flat-square)
-- 🔄 **Pull Requests** ![Pull Requests](https://img.shields.io/badge/pull%20requests-50+-brightgreen?style=flat-square)
-- ❌ **Issues Closed** ![Issues Closed](https://img.shields.io/badge/issues%20closed-30+-red?style=flat-square)
-
+![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=dracula)
 
