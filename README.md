@@ -11,7 +11,7 @@ Currently diving into:
 - 🧠 Web Development
 - 📱 Mobile App Development with Flutter
 -->
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,12 +26,12 @@ Currently diving into:
 ##
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domengzu&layout=compact&theme=highcontrast&hide_border=true) ![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=highcontrast&border_radius=10&hide_border=true)
 
-### 🔥 Streaks
+## 🔥 Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=domengzu&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=domengzu&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- ### 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=domengzu&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
