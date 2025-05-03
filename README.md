@@ -24,7 +24,8 @@ Currently diving into:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ##
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Code is like humor. When you have to explain it, it’s bad."
+> – Cory House
 
 ## 📊 GitHub Stats
 
