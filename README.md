@@ -28,6 +28,10 @@ Currently diving into:
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domengzu&layout=compact&theme=dark&border=none) ![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=dark&border=none) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domengzu&layout=compact&theme=highcontrast&hide_border=true) ![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=highcontrast&border_radius=10&hide_border=true)
 
+### 🔥 Streaks
+[![GitHub Streak](https://streak-stats.demolab.com?user=domengzu&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
+### 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=domengzu&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
