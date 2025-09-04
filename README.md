@@ -32,7 +32,7 @@ Currently diving into:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domengzu&layout=compact&theme=highcontrast&hide_border=true) ![Domengzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=domengzu&show_icons=true&theme=highcontrast&border_radius=10&hide_border=true)
 
 ## 🔥 Streaks
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=domengzu&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=domengzu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=domengzu)](https://git.io/streak-stats)-->
 
 <!-- ### 🏆 Trophies
