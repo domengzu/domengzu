@@ -27,16 +27,15 @@ Currently diving into:
 > "Code is like humor. When you have to explain it, it's bad."
  – Cory House
 
-## GitHub Stats & Streaks
+## 🔥 Streaks
 
 <div align="center">
-  <img src="https://duepy-stats.vercel.app/api?username=domengzu&show_icons=true&theme=transparent&hide_border=true&line_height=35&custom_title=domengzu's%20Github%20Stats" alt="GitHub Stats" height="200" width="400" />
-  <img src="https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight" alt="GitHub Streak" height="200" width="400" />
+  <img src="https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight" alt="GitHub Streak" height="180" />
 </div>
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://duepy-stats.vercel.app/api/top-langs/?username=domengzu&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" height="200" />
+  <img src="https://duepy-stats.vercel.app/api?username=domengzu&show_icons=true&theme=tokyonight&hide_border=false&line_height=35&custom_title=domengzu's%20Github%20Stats" alt="GitHub Stats" height="360" />
+  <img src="https://duepy-stats.vercel.app/api/top-langs/?username=domengzu&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" height="360" />
 </div>
-
-<!-- ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=domengzu&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
