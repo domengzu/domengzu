@@ -1,9 +1,6 @@
-<div style="display: flex; justify-content: center; align-items: center; max-width: 100%;">
-  <img 
-    src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" 
-    alt="Abstract Flow"
-  >
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Abstract Flow" width="400"/>
+</p>
 
 ---
 
@@ -11,7 +8,7 @@
  – Cory House
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
 </div>
 
 ---
