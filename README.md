@@ -14,15 +14,6 @@
   <img src="https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://duepy-stats.vercel.app/api?username=domengzu&show_icons=true&theme=tokyonight&hide_border=true&line_height=35&custom_title=domengzu's%20Github%20Stats" alt="GitHub Stats" height="360" />
-  <img src="https://duepy-stats.vercel.app/api/top-langs/?username=domengzu&theme=tokyonight&hide_border=true&hide_title=true" alt="Top Languages" height="360" />
-</div>
-
----
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,3 +24,10 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+<div align="center">
+  <img src="https://duepy-stats.vercel.app/api?username=domengzu&show_icons=true&theme=tokyonight&hide_border=true&line_height=35&custom_title=domengzu's%20Github%20Stats" alt="GitHub Stats" height="360" />
+  <img src="https://duepy-stats.vercel.app/api/top-langs/?username=domengzu&theme=tokyonight&hide_border=true&hide_title=true" alt="Top Languages" height="360" />
+</div>
