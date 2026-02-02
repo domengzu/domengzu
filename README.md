@@ -24,15 +24,18 @@ Currently diving into:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ##
-> "Code is like humor. When you have to explain it, it’s bad."
+> "Code is like humor. When you have to explain it, it's bad."
  – Cory House
 
 ## GitHub Stats
 
-![dsadasdasd](https://duepy-stats.vercel.app/api?username=domengzu&show_icons=true&theme=transparent&hide_border=true&line_height=35&custom_title=domengzu's%20Github%20Stats)
-![asdadasd](https://duepy-stats.vercel.app/api/top-langs/?username=domengzu&theme=transparent&hide_border=true&hide_title=true)
+<div align="center">
+  <img src="https://duepy-stats.vercel.app/api?username=domengzu&show_icons=true&theme=transparent&hide_border=true&line_height=35&custom_title=domengzu's%20Github%20Stats" alt="GitHub Stats" height="180" />
+  <img src="https://duepy-stats.vercel.app/api/top-langs/?username=domengzu&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" height="180" />
+</div>
 
 ## 🔥 Streaks
-[![GitHub Streak](https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight)](https://git.io/streak-stats)
-<!-- ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=domengzu&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight" alt="GitHub Streak" height="180" />
+</div>
