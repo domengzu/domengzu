@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center">
+<div style="display: flex; justify-content: center; align-items: center; max-width: 100%;">
   <img 
     src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" 
     alt="Abstract Flow"
