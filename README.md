@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="360" />
 </div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
