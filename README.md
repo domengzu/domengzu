@@ -1,23 +1,14 @@
 ## ![Abstract Flow](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
-##
 > "Code is like humor. When you have to explain it, it's bad."
  – Cory House
-
-## 🔥 Streaks
-
 <div align="center">
   <img src="https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight" alt="GitHub Streak" height="180" />
 </div>
-
-## GitHub Stats
-
 <div align="center">
   <img src="https://duepy-stats.vercel.app/api?username=domengzu&show_icons=true&theme=tokyonight&hide_border=false&line_height=35&custom_title=domengzu's%20Github%20Stats" alt="GitHub Stats" height="360" />
   <img src="https://duepy-stats.vercel.app/api/top-langs/?username=domengzu&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" height="360" />
 </div>
-
 ##
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
