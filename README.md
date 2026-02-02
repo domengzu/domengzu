@@ -4,8 +4,11 @@
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad."
- – Cory House
+<p align="center">
+"Code is like humor. When you have to explain it, it's bad."
+  <br>
+ – Cory House  
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
