@@ -1,4 +1,10 @@
-## ![Abstract Flow](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+<div style="text-align: center;">
+  <img 
+    src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" 
+    alt="Abstract Flow"
+  >
+</div>
+ 
 > "Code is like humor. When you have to explain it, it's bad."
  – Cory House
 
