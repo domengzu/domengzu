@@ -20,7 +20,7 @@
     <img src="https://github-readme-streak-stats-theta-blue.vercel.app?user=domengzu&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200" />
     
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ruby,rails,mysql,postgres,git,github,postman,linux,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,ruby,rails,mysql,postgres,git,github,postman,linux,vscode&theme=dark" />
   </p>
     
   <img src="https://duepy-stats.vercel.app/api?username=domengzu&show_icons=true&theme=tokyonight&hide_border=true&line_height=35&custom_title=domengzu's%20Github%20Stats" alt="GitHub Stats" height="360" />
