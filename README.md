@@ -1,7 +1,7 @@
 <h1>Hey There! 👋</h1>
 
 <p>
-  I'm <strong>Domenick Mahusay</strong> — fullstack developer & problem solver.
+  I'm <strong>Domenick Mahusay</strong> — fullstack developer.
 </p>
 
 <p align="center">
@@ -9,6 +9,18 @@
     <img src="./dino-dark.gif" width="100%"/>
   </a>
 </p>
+
+<div align="left">
+<a href="https://facebook.com/dmnck.mahusay">
+  <img src="https://img.shields.io/badge/Domenick-0866FF?style=flat&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_domminate">
+  <img src="https://img.shields.io/badge/_domminate-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</a>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=domengzu&label=Profile+Views&color=03C75A&style=flat" alt="Views"/>
+</div>
 
 <details>
   <summary><b>Github Stats ⚡</b></summary>
